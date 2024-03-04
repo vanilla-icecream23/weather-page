@@ -1,0 +1,73 @@
+body{
+    background-color:#ebf9ff;
+}
+h1{
+    font-size: 40px;
+    font-weight:900;
+}
+main{
+    padding: 30px 0px;
+    
+}
+
+footer{
+    color:#7aace9;
+    font-family:monospace;
+    font-size: 17px;
+    text-align: center;
+    margin-top:15px;
+}
+
+strong{
+    color: #2868b6;
+}
+span{
+    font-size:50px;
+    
+}
+.degree{
+    position: relative;
+    bottom: 20px;
+
+}
+
+.container {
+    background-color: white;
+    border: 2px solid white;
+    border-radius: 20px;
+    margin: 60px auto;
+    padding: 30px;
+    max-width: 600px;
+    box-shadow: 5px 5px 10px 5px #c9ecff;
+    font-family: roboto;
+
+}
+.box{
+    background-color:#e2f1f8;
+    border: none;
+    border-radius: 10px;
+    padding: 20px 120px;
+    margin-right: 5px;
+    font-size: 17px;
+    
+}
+.button{
+    background-color:#2868b6;
+    border: none;
+    border-radius: 10px;
+    padding: 20px;
+    font-size: 17px;
+    color:white;
+    }
+
+.current-weather{
+    display: flex;
+    justify-content: space-between;
+}
+.current-temperature{
+    font-size: 75px;
+    font-weight: 900;
+}
+.sentence{
+    color: gray;
+}
